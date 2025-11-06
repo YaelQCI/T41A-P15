@@ -1,6 +1,5 @@
 import psycopg2
 import pytest
-from pathlib import Path
 
 DB_CONFIG = {
     "dbname": "test_db",
